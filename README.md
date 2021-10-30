@@ -3,7 +3,7 @@ A curated list of public ab initio codes and resources. This list is highly opin
 
 ## DFT
 - [Quantum Espresso](https://www.quantum-espresso.org/) [[GitLab](https://gitlab.com/QEF/q-e)]
-- [SIESTA](https://siesta-project.org/siesta/) [[GitLab](https://gitlab.com/siesta-project/siesta)]
+- [SIESTA](https://siesta-project.org/siesta/) [[GitLab](https://gitlab.com/siesta-project/siesta)] [[Docs](https://docs.siesta-project.org/)]
 - [ABINIT](https://www.abinit.org/)
 
 ## Electron-Phonon 
@@ -29,6 +29,8 @@ A curated list of public ab initio codes and resources. This list is highly opin
 - [SSSP](https://www.materialscloud.org/discover/sssp/table/precision)
 - [Pseudo Dojo](http://www.pseudo-dojo.org/)
 - [Simune Atomistics](https://www.simuneatomistics.com/siesta/siesta-pseudos-and-basis-database/)
+- [ONCVPSP code, D. R. Hamann](http://www.mat-simresearch.com/)
+- 
 
 ## Material Informatics
 - [Materials Project](https://materialsproject.org/)
@@ -38,3 +40,22 @@ A curated list of public ab initio codes and resources. This list is highly opin
 - [AiiDA](https://www.aiida.net/)
 - [SNUMAT](https://www.snumat.com/)
  
+## Numerical Computing
+### Eigensolvers
+- [SCALAPACK](http://www.netlib.org/scalapack/)
+- [ELPA](https://elpa.mpcdf.mpg.de/)
+- [FEAST Eigensolver](http://www.feast-solver.org/)
+- [MAGMA](https://bitbucket.org/icl/magma/src/master/)
+
+### Nonlinear Optimization
+- [nlopt](https://nlopt.readthedocs.io/en/latest/)
+
+### Differentiable Programming
+- [jax](https://jax.readthedocs.io/en/latest/)
+- [jax-dft](https://github.com/google-research/google-research/tree/master/jax_dft)
+- [dqc/dqc](https://github.com/diffqc/dqc): Differentiable Quantum Chemistry (pytorch)
+
+## Electronic Structure Calculation Library
+- [CECAM](https://esl.cecam.org/)
+- [libxc](https://www.tddft.org/programs/libxc/)
+- [libvdwxc](https://libvdwxc.gitlab.io/libvdwxc/)
