@@ -1,5 +1,5 @@
 # condensed-matter-ab-initio
-a curated list of open source ab initio codes
+A curated list of public ab initio codes and resources. This list is highly opinionated and not intended to be comprehensive.
 
 ## DFT
 - [Quantum Espresso](https://www.quantum-espresso.org/) [[GitLab](https://gitlab.com/QEF/q-e)]
@@ -25,3 +25,16 @@ a curated list of open source ab initio codes
 - [ASE](https://wiki.fysik.dtu.dk/ase/index.html)
 - [abipy](https://github.com/abinit/abipy)
 
+## Pseudopotentials
+- [SSSP](https://www.materialscloud.org/discover/sssp/table/precision)
+- [Pseudo Dojo](http://www.pseudo-dojo.org/)
+- [Simune Atomistics](https://www.simuneatomistics.com/siesta/siesta-pseudos-and-basis-database/)
+
+## Material Informatics
+- [Materials Project](https://materialsproject.org/)
+- [Aflow](http://aflowlib.org/)
+- [Materials Cloud](https://materialscloud.org/)
+- [Optimade](https://www.optimade.org/)
+- [AiiDA](https://www.aiida.net/)
+- [SNUMAT](https://www.snumat.com/)
+ 
